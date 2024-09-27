@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+InterviewPreparation app is a mock interview preparation app that offers coding questions, interview tips, and essential resources for candidates.
+
+I used SqlLite to load data offline and firebase online.
+and ues caching to save theme mode, animation like Hero and animatonContainer.
+
+i used a Provider to State project.
 
 A few resources to get you started if this is your first Flutter project:
 
