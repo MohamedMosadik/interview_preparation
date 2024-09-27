@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822023463042",
+    "firebase_url": "https://interviewpreparation-7a2ea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "interviewpreparation-7a2ea",
+    "storage_bucket": "interviewpreparation-7a2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822023463042:android:1cbe33559e90a2234f149b",
+        "android_client_info": {
+          "package_name": "com.example.interview_preparation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZbxFhmFO858jcCTVUwQOu1GFANory7JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
