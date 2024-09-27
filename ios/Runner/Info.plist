@@ -47,5 +47,18 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>CFBundleURLTypes</key>
+ <array>
+  <dict>
+   <key>CFBundleTypeRole</key>
+   <string>Editor</string>
+   <key>CFBundleURLSchemes</key>
+   <array>
+    <string>THE_REVERSED_CLIENT_ID_YOU_PASTED</string>
+   </array>
+  </dict>
+ </array>
+ 
 </dict>
 </plist>
